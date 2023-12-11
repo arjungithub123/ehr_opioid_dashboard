@@ -8,3 +8,5 @@ The repository contains
 the path ~/Library/Tableau/Drivers/postgresql-42.6.0.jar) for enabling database connectivity with Tableau
 4. Csv data files used (for loading into database tables)
 5. Python Notebook to fetch responses from ChatGPT API.
+
+Tableau Public Hosted Version of the dashboard can be found at https://public.tableau.com/app/profile/arjun.shrivatsa.omampuliyur.balakrishnan/viz/OpioidPatientProfileDashboard/Cumulative
